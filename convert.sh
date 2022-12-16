@@ -2,9 +2,9 @@
 
 output_path="jam" # Output Path (Same will be pushed in main also)
 
-input_url="https://billowing-poetry-5f4f.sotif726237599.workers.dev/a5eb9e883207c375fd03098d1bd2104572584362bca1a6542803041fc94fd9e6b939df4ece9c73a8105c92c30c801729::cc68f33e614205050de71ce8239c94b0/1395263904/The.Contractor.2022.1080p.AMZN.WEB-DL.DDP2.0.H.264-Vegamovies.to.mkv" # Input direct file url
+input_url="https://cdn11.clicknupload.net:8080/d/4k5xmqbrlryd7tr7fpl5lksjlnqwulmuy7udwmj3wdww5pdgwkecsnbhhwep3usw6muux67g/AVTR2SKMHD%20(2022)%20www.SkymoviesHD.boats%201080p%20HQ%20S-Print%20Dual%20x264%20HC-ESub.mp4" # Input direct file url
 
-input_extension="mkv" # Extension of file url
+input_extension="mp4" # Extension of file url
 
 # Change ffmpeg configurations according to yur need (If you don't know, don't touch)
 
